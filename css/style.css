@@ -1,0 +1,47 @@
+html {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #d8d8d8;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.calendar {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 5em;
+    box-sizing: border-box;
+}
+
+.calendar__layer {
+    position: absolute;
+    height: calc(100% - 10em);
+    width: calc(100% - 10em);
+    top: 5em;
+    left: 5em;
+}
+
+.calendar__layer--background {
+    background: url(../processed_images/kalendaars-05.svg) no-repeat center center;
+    background-size: contain;
+}
+
+.calendar__layer--light {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: black;
+    opacity: 0.3;
+}
+
+.calendar__layer--markers {
+    background: url(../processed_images/markers.svg) no-repeat center center;
+    background-size: contain;
+}
