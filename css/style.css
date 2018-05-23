@@ -14,6 +14,8 @@ body {
 .calendar {
     height: 100%;
     width: 100%;
+    max-width: 100vw;
+    max-height: 100vh;
     margin: 0;
     padding: 5em;
     box-sizing: border-box;
@@ -27,11 +29,6 @@ body {
     left: 5em;
 }
 
-.calendar__layer--background {
-    background: url(../processed_images/kalendaars-05.svg) no-repeat center center;
-    background-size: contain;
-}
-
 .calendar__layer--light {
     height: 100%;
     width: 100%;
@@ -41,7 +38,8 @@ body {
     opacity: 0.3;
 }
 
-.calendar__layer--markers {
-    background: url(../processed_images/markers.svg) no-repeat center center;
-    background-size: contain;
+.calendar__layer-svg {
+    width: 100%;
+    height: auto;
+    max-height: 100%;
 }
