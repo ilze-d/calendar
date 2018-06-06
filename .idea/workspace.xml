@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4ff781b-6acb-4e7e-abf8-f170697b8e2e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/calendar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/processed_images/kalendaars-05.svg" beforeDir="false" afterPath="$PROJECT_DIR$/processed_images/kalendaars-05.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processed_images/markers.svg" beforeDir="false" afterPath="$PROJECT_DIR$/processed_images/markers.svg" afterDir="false" />
     </list>
     <ignored path="Calendar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,14 +26,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="calendar.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="calendar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calendar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="1066" column="7" lean-forward="true" selection-start-line="1066" selection-start-column="7" selection-end-line="1066" selection-end-column="7" />
+            <state relative-caret-position="476">
+              <caret line="463" column="6" lean-forward="true" selection-start-line="463" selection-start-column="6" selection-end-line="463" selection-end-column="6" />
               <folding>
                 <element signature="n#svg#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#svg#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#svg#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#svg#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#svg#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="years.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/processed_images/years.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="seasons.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/processed_images/seasons.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="quaters.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/processed_images/quaters.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="months.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/processed_images/months.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="days.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/processed_images/days.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -40,20 +90,10 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+            <state relative-caret-position="272">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="markers.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processed_images/markers.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="kalendaars-05.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processed_images/kalendaars-05.svg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -75,9 +115,16 @@
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/css/normalize.css" />
         <option value="$PROJECT_DIR$/processed_images/markers.svg" />
+        <option value="$PROJECT_DIR$/processed_images/months.svg" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/processed_images/kalendaars-05.svg" />
+        <option value="$PROJECT_DIR$/processed_images/days.svg" />
+        <option value="$PROJECT_DIR$/processed_images/quaters.svg" />
+        <option value="$PROJECT_DIR$/processed_images/seasons.svg" />
+        <option value="$PROJECT_DIR$/processed_images/years.svg" />
         <option value="$PROJECT_DIR$/calendar.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -88,13 +135,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1938" />
-    <option name="height" value="1058" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1715" />
+    <option name="y" value="133" />
+    <option name="width" value="1551" />
+    <option name="height" value="847" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -111,7 +160,12 @@
             <path>
               <item name="Calendar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Calendar" type="462c0819:PsiDirectoryNode" />
-              <item name="processed_images" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Calendar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calendar" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,8 +181,13 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\Calendar\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\Calendar\css" />
     </key>
@@ -178,23 +237,27 @@
       <updated>1527015836451</updated>
       <workItem from="1527015837580" duration="3831000" />
       <workItem from="1527058605259" duration="329000" />
-      <workItem from="1527075858489" duration="2590000" />
+      <workItem from="1527075858489" duration="2940000" />
+      <workItem from="1528283485054" duration="3625000" />
+      <workItem from="1528287967491" duration="1393000" />
+      <workItem from="1528293289559" duration="1949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6750000" />
+    <option name="totallyTimeSpent" value="14067000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1550" height="846" extended-state="0" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1640625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20520833" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32943678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -203,9 +266,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,15 +279,134 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/calendar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="106641">
+          <caret line="6130" column="10" lean-forward="true" selection-start-line="6130" selection-start-column="10" selection-end-line="6130" selection-end-column="10" />
           <folding>
             <element signature="n#svg#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/processed_images/years.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/seasons.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/quaters.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/months.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/days.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/markers.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/kalendaars-05.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104057">
+          <caret line="6005" column="41" selection-start-line="6005" selection-start-column="41" selection-end-line="6005" selection-end-column="71" />
+          <folding>
+            <element signature="n#svg#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/years.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/seasons.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/quaters.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/months.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/days.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/markers.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/kalendaars-05.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18122">
+          <caret line="1066" column="7" lean-forward="true" selection-start-line="1066" selection-start-column="7" selection-end-line="1066" selection-end-column="7" />
+          <folding>
+            <element signature="n#svg#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/markers.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/kalendaars-05.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="n#svg#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
@@ -239,7 +420,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
@@ -250,13 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1397">
           <caret line="340" column="1" selection-start-line="340" selection-start-column="1" selection-end-line="340" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -271,15 +445,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/months.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/days.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/quaters.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/seasons.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed_images/years.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/calendar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="1066" column="7" lean-forward="true" selection-start-line="1066" selection-start-column="7" selection-end-line="1066" selection-end-column="7" />
+        <state relative-caret-position="476">
+          <caret line="463" column="6" lean-forward="true" selection-start-line="463" selection-start-column="6" selection-end-line="463" selection-end-column="6" />
           <folding>
             <element signature="n#svg#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#svg#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
