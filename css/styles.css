@@ -9,6 +9,13 @@ body {
   height: 100%;
   width: 100%; }
 
+.markers > path,
+.markers > g {
+  opacity: 0; }
+
+.markers .active {
+  opacity: 1; }
+
 .calendar {
   height: 100%;
   width: 100%;
@@ -37,7 +44,6 @@ body {
   background-color: black;
   opacity: 0.3; }
 
-.calendar__layer-svg,
 .calendar__layer > svg {
   width: 100%;
   height: auto;

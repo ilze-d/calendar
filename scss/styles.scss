@@ -1,16 +1,5 @@
-html {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    background-color: #d8d8d8;
-
-}
-
-body {
-    height: 100%;
-    width: 100%;
-}
+@import "core";
+@import "markers";
 
 .calendar {
     height: 100%;
@@ -42,7 +31,6 @@ body {
     opacity: 0.3;
 }
 
-.calendar__layer-svg,
 .calendar__layer>svg{
     width: 100%;
     height: auto;
