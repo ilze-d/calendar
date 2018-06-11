@@ -32,17 +32,13 @@ body {
   top: 5em;
   left: 5em; }
 
-.test {
-  color: red;
-  background-attachment: noen; }
-
 .calendar__layer--light {
   height: 100%;
   width: 100%;
   top: 0;
   left: 0;
   background-color: black;
-  opacity: 0.3; }
+  opacity: 0; }
 
 .calendar__layer > svg {
   width: 100%;
