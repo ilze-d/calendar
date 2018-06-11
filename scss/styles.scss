@@ -1,38 +1,3 @@
 @import "core";
 @import "markers";
-
-.calendar {
-    height: 100%;
-    width: 100%;
-    max-width: 100vw;
-    max-height: 100vh;
-    margin: 0;
-    padding: 5em;
-    box-sizing: border-box;
-}
-
-.calendar__layer {
-    position: absolute;
-    height: calc(100% - 10em);
-    width: calc(100% - 10em);
-    top: 5em;
-    left: 5em;
-}
-.test {
-    color: red;
-    background-attachment: noen;
-}
-.calendar__layer--light {
-    height: 100%;
-    width: 100%;
-    top: 0;
-    left: 0;
-    background-color: black;
-    opacity: 0.3;
-}
-
-.calendar__layer>svg{
-    width: 100%;
-    height: auto;
-    max-height: 100%;
-}
+@import "layers";
